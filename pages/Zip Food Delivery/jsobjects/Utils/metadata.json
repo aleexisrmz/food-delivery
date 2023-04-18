@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "Utils",
+    "pageId": "Zip Food Delivery",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "orderStatusOptions",
+        "value": "[{\n  \"label\": \"Order placed\",\n  \"value\": \"ORDER PLACED\"\n}, {\n  \"label\": \"Delayed\",\n  \"value\": \"DELAYED\"\n}, {\n  \"label\": \"Delivered\",\n  \"value\": \"DELIVERED\"\n}, {\n  \"label\": \"Refunded\",\n  \"value\": \"REFUNDED\"\n}]"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Zip Food Delivery_Utils",
+  "deleted": false,
+  "gitSyncId": "643a759d26013158789b3df3_643bd466e0735231ba678cff"
+}
